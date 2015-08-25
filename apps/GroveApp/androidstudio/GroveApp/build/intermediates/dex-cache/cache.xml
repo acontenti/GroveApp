@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AndroidStudioWorkspace\Cinder\apps\GroveApp\androidstudio\GroveApp\app\build\intermediates\exploded-aar\GroveApp\libcinder-debug\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="972a5ade451126495b3bdbc95741fad0bc1e21fc">
+        <dex dex="D:\AndroidStudioWorkspace\Cinder\apps\GroveApp\androidstudio\GroveApp\app\build\intermediates\pre-dexed\debug\classes-1b1fe37d7b780fea293984dd987a2a1450038938.jar" />
+    </item>
+
+</items>
